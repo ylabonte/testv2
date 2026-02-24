@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - copilot/add-fancy-four-in-a-row-ui
   workflow_dispatch:
 
 permissions:
